@@ -1,0 +1,1 @@
+json.array! @mircroposts, partial: 'mircroposts/mircropost', as: :mircropost

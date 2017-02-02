@@ -1,0 +1,1 @@
+json.partial! "mircroposts/mircropost", mircropost: @mircropost
